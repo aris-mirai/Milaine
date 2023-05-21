@@ -926,7 +926,7 @@ desktop/views/pages/welcome.vue:
   timeline: "Oś czasu"
   announcements: "Ogłoszenia"
   photos: "Ostatnie obrazy"
-  powered-by-misskey: "Oparto o <b>Misskey</b>."
+  powered-by-misskey: "Oparto o <b>Milaine</b>."
   info: "Informacje"
 desktop/views/pages/drive.vue:
   title: "Dysk Misskey"

@@ -1778,7 +1778,7 @@ desktop/views/pages/welcome.vue:
   timeline: "Timeline"
   announcements: "Announcements"
   photos: "Recent Images"
-  powered-by-misskey: "Powered by <b>Misskey</b>."
+  powered-by-misskey: "Powered by <b>Milaine</b>."
   info: "Information"
 desktop/views/pages/drive.vue:
   title: "Misskey storage"

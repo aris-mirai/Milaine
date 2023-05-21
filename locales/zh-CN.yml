@@ -1299,7 +1299,7 @@ desktop/views/pages/welcome.vue:
   timeline: "时间线"
   announcements: "公告"
   photos: "最近图片"
-  powered-by-misskey: "Powered by <b>Misskey</b>."
+  powered-by-misskey: "Powered by <b>Milaine</b>."
   info: "信息"
 desktop/views/pages/drive.vue:
   title: "Misskey 网盘"

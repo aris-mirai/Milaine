@@ -986,7 +986,7 @@ desktop/views/pages/welcome.vue:
   timeline: "Časová osa"
   announcements: "Oznámení"
   photos: "Nedávné obrázky"
-  powered-by-misskey: "Běží na <b>Misskey</b>."
+  powered-by-misskey: "Běží na <b>Milaine</b>."
   info: "Informace"
 desktop/views/pages/drive.vue:
   title: "Misskey Disk"

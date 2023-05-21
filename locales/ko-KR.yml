@@ -1285,7 +1285,7 @@ desktop/views/pages/welcome.vue:
   timeline: "타임라인"
   announcements: "공지사항"
   photos: "최근 이미지"
-  powered-by-misskey: "Powered by <b>Misskey</b>."
+  powered-by-misskey: "Powered by <b>Milaine</b>."
   info: "정보"
 desktop/views/pages/drive.vue:
   title: "Misskey Drive"

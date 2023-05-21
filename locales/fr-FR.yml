@@ -1200,7 +1200,7 @@ desktop/views/pages/welcome.vue:
   timeline: "Fil d’actualité"
   announcements: "Notices"
   photos: "Images récentes"
-  powered-by-misskey: "Propulsé par <b>Misskey</b>."
+  powered-by-misskey: "Propulsé par <b>Milaine</b>."
   info: "Informations"
 desktop/views/pages/drive.vue:
   title: "Lecteur de Misskey"

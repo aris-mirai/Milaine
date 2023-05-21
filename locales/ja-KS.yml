@@ -993,7 +993,7 @@ desktop/views/pages/welcome.vue:
   timeline: "タイムライン"
   announcements: "知っときや"
   photos: "最近の画像"
-  powered-by-misskey: "<b>Misskey</b>のおかげや"
+  powered-by-misskey: "<b>Milaine</b>のおかげや"
   info: "情報"
 desktop/views/pages/drive.vue:
   title: "ドライブ"

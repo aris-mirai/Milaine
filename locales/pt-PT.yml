@@ -208,7 +208,7 @@ admin/views/federation.vue:
   followers: "Seguidores"
 desktop/views/pages/welcome.vue:
   timeline: "Timeline"
-  powered-by-misskey: "Desenvolvido por <b>Misskey</b>."
+  powered-by-misskey: "Desenvolvido por <b>Milaine</b>."
 desktop/views/pages/drive.vue:
   title: "Drive Misskey"
 desktop/views/pages/note.vue:
