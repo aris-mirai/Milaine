@@ -1,7 +1,7 @@
-# めいすきー (Meisskey)
+# Milaine
 
 Meisskey is a decentralized microblogging platform.   
-The fork of [Misskey](https://github.com/misskey-dev/misskey)
+The fork of [Meisskey](https://github.com/mei23/misskey)
 
 ![](https://github.com/mei23/misskey/workflows/Node.js%20CI/badge.svg)
 
